@@ -5,5 +5,8 @@
 [node name="Node2D" type="Node2D"]
 
 [node name="Node2D" parent="." instance=ExtResource( 1 )]
-position = Vector2( 63, 57 )
-imageFile = "res://assets/Charspore.png"
+position = Vector2( 186.15, 89.7507 )
+image_file = "res://assets/Charspore.png"
+direction = 3
+item1_id = 1
+item2_id = 3
