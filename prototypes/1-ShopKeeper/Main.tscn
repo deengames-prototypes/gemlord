@@ -6,4 +6,4 @@
 
 [node name="Node2D" parent="." instance=ExtResource( 1 )]
 position = Vector2( 63, 57 )
-imageFile = "res://assets/dates.png"
+imageFile = "res://assets/Charspore.png"

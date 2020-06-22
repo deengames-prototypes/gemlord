@@ -2,10 +2,10 @@ tool
 extends Node2D
 
 enum DIRECTION {
-	Up,
 	Down,
 	Left,
-	Right
+	Right,
+	Up
 }
 
 export (String) var imageFile setget set_imageFile, get_imageFile
@@ -40,4 +40,4 @@ func _ready():
 
 func _update_sprite():	
 	$Sprite.region_enabled = true
-	$Sprite.region_rect = Rect2(_direction * 64, 0, 64, 64)
+	$Sprite.region_rect = Rect2(64, _direction * 64, 64, 64)
