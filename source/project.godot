@@ -26,7 +26,6 @@ enabled=PoolStringArray( "mono_debugger" )
 [mono]
 
 debugger_agent/port=55555
-debugger_agent/wait_for_debugger=true
 debugger_agent/wait_timeout=5000
 
 [rendering]
