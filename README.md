@@ -1,6 +1,6 @@
 # skylord
 
-Rogulike RPG where you reach and battle Skylord to earn your freedom.
+RPG with tactical battles. Reach and battle Skylord to earn your freedom.
 
 # Dev Notes
 
