@@ -1,8 +1,10 @@
-# skylord
+# gemlord
 
-RPG with tactical battles. Reach and battle Skylord to earn your freedom.
+RPG with tactical battles. Reach and battle Gemlord to earn your freedom.
 
 # Dev Notes
+
+Formerly Skylord, if you're looking for the old notes.
 
 If VSCode complains about the non-existence of `program.exe` when you press F5:
 
