@@ -15,7 +15,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="Skylord"
+config/name="Gemlord"
 run/main_scene="res://TestMap.tscn"
 config/icon="res://icon.png"
 
